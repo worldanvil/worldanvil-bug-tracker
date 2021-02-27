@@ -7,6 +7,11 @@ assignees: ''
 
 ---
 
+**World Anvil Username**:
+**World / Campaign / RPG Character / Manuscript Title**:
+**Feature**: 
+General information to track down bugs!
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
