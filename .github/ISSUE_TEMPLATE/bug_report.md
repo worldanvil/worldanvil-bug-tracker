@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Report any bugs, typos or other issues you have encountered with World Anvil!
 title: ''
 labels: ''
 assignees: ''
@@ -12,7 +12,6 @@ assignees: ''
 **World / Campaign / RPG Character / Manuscript Title**:
 
 **Feature**: 
-General information to track down bugs!
 
 **Describe the bug**
 A clear and concise description of what the bug is.
