@@ -13,7 +13,7 @@ assignees: ''
 
 **Feature**: 
 
-**Related URLS** (add URLs of the pages that do not work!):
+**Related URLS** (add URLs of the pages that do not work, make sure they are published and public!):
 
 **Describe the bug**
 A clear and concise description of what the bug is.
