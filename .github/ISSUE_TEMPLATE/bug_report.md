@@ -1,6 +1,6 @@
 ---
-name: Bug report
-about: Report any bugs, typos or other issues you have encountered with World Anvil!
+name: Report Issue
+about: Report any bugs, typos, user experience issues, missing documenation and other issues you may encounter.
 title: ''
 labels: ''
 assignees: ''
@@ -13,10 +13,10 @@ assignees: ''
 
 **Feature**: 
 
-**Related URLS** (add URLs of the pages that do not work, make sure they are published and public!):
+**Related URLS** (To public & visible pages add screenshots otherwise):
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Describe the Issue**
+A clear and concise description of what the issue is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
