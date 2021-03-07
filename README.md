@@ -6,7 +6,7 @@ Do not make feature requests here. A feature request is anything that expands on
 
 ### How to report an issue?
 
-In order to report an issue you will need a GitHub account. You can use [this](https://github.com/join) link to join. Just follow the instructions!
+In order to report an issue you will need a GitHub account. You can use [this](https://github.com/join) link to join. Just follow the instructions! Make sure to verfiy your email address as you cannot submit a request before doing so.
 
 Once you have an account go to the Issues tab above. Use the search function to see if your issue was already reported. If it was then add a comment to the issue instead of making a new one. This might help the team track down the issue faster and increase the priority.
 
