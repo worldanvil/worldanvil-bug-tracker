@@ -1,6 +1,7 @@
 ---
 name: Report Issue
-about: Report any bugs, typos, user experience issues, missing documenation and other issues you may encounter.
+about: Report any bugs, typos, user experience issues, missing documenation and other
+  issues you may encounter.
 title: ''
 labels: ''
 assignees: ''
