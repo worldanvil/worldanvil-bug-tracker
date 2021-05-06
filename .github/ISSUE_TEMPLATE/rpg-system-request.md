@@ -8,8 +8,11 @@ assignees: ''
 ---
 
 **Full Name (RPG SYSTEM)**:
+**List Name** (Name under which it should be listed on World Anvil):
 **World Anvil Username**:
 
-**Add links to the RPG System Website**:
+**Website**:
 
-**Add a Logo Image (only with a link to the terms of how this logo may be used and where it is from)**:
+**Logo Image Link**:
+
+**Logo Usage Terms (URL)**:
