@@ -4,7 +4,7 @@ about: Report any bugs, typos, user experience issues, missing documenation and 
   issues you may encounter using Chronos.
 title: ''
 labels: 'Feature: Chronos'
-assignees: ''
+assignees: Xuroth
 
 ---
 
@@ -12,7 +12,7 @@ assignees: ''
 
 **Chronicle Title**:
 
-** Chronos Sub-system Impacted**
+**Chronos System**
 
 **Describe the Issue**
 A clear and concise description of what the issue is.
